@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Kovil',
+  title: 'Kanchi Kovil',
   tagline: 'Microsite for Requirements',
   favicon: 'img/favicon.ico',
 
@@ -139,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kovil Project. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
