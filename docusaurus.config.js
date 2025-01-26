@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kanchikovil/requirements',
+            'https://github.com/kanchikovil/requirements/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kanchikovil/requirements',
+            'https://github.com/kanchikovil/requirements/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -90,7 +90,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/kanchikovil/requirements',
+            href: 'https://github.com/kanchikovil/requirements/tree/main/',
             label: 'GitHub',
             position: 'right',
           },
